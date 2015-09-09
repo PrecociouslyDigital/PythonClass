@@ -20,7 +20,6 @@ else:
   print ("Work harder.")
 #--------------------#
 number = 125
-
 print "Here is a number!"
 if number >= 50:
   print "The number is above (or equal to) 50,"
