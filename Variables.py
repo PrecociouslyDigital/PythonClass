@@ -6,6 +6,6 @@ itsOver = 9000
 two = 1+1
 print (two)
 print (two + itsOver)
-x = "boy"
-y = "firey pit of lava"
-print ("a young " + x + " stands in their " + y)
+x = "lava monster"
+y = "fiery pit of lava"
+print ("a young " + x + " stands in his " + y)
